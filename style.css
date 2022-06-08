@@ -1,0 +1,94 @@
+.index {
+    background: 
+    radial-gradient(black 3px, transparent 4px),
+    radial-gradient(black 3px, transparent 4px),
+    linear-gradient(#fff 4px, transparent 0),
+    linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
+  #fff;
+  background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+  background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+}
+.titulo {
+    color: blue;
+}
+body{
+    background: radial-gradient(1.5em 6.28571em at 1.95em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 0 0, radial-gradient(1.5em 6.28571em at -0.45em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 1.5em 5.5em, radial-gradient(2.3em 4.57143em at 2.99em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.3) 55%, rgba(255, 255, 255, 0) 55%) 0 0, radial-gradient(2.3em 4.57143em at -0.69em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.3) 55%, rgba(255, 255, 255, 0) 55%) 2.3em 4em, radial-gradient(3.5em 6.28571em at 4.55em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 0 0, radial-gradient(3.5em 6.28571em at -1.05em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 3.5em 5.5em, radial-gradient(#15ffa5, #00ced1);
+    background-color: mediumspringgreen;
+    background-size: 1.5em 11em, 1.5em 11em, 2.3em 8em, 2.3em 8em, 3.5em 11em, 3.5em 11em, 100% 100%;
+    background-repeat: repeat;
+}
+.bgproductos {
+    background: 
+    linear-gradient(135deg, black 25%, transparent 25%) -50px 0,
+    linear-gradient(225deg, black 25%, transparent 25%) -50px 0,
+    linear-gradient(315deg, black 25%, transparent 25%),
+    linear-gradient(45deg, black 25%, transparent 25%);	
+    background-size: 2em 2em;
+    background-color: #232323;
+}
+
+.tablas {
+    background-color: rgb(236, 236, 244);
+}    
+
+#nuestrosproductos {
+    color: bisque;
+    background-color: green;
+    height: 30px;
+}
+#tr, th, td {
+    background-color: limegreen;
+    border: 1px solid black;
+}
+#nosotrostitulo {
+    display: flex;
+    justify-content: center;
+    background-color: coral;
+
+}
+#asesoramos {
+    background-color: lawngreen;
+    font-style: oblique;
+}
+#confianza {
+    background-color: lawngreen;
+    font-style: oblique;
+}
+#envios {
+    background-color: lawngreen;
+    font-style: oblique;
+}
+#envioslogo {
+    background-color: yellowgreen;
+}
+#contactotitulo {
+    display: flex;
+    justify-content: center;
+    background-color: coral;
+}
+#formulario {
+    background-color: aquamarine;
+    width: 175px;
+    
+}
+#contactotelefono {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    background-color: chocolate;
+    
+}
+#videostitulo {
+    background-color: rgb(0, 139, 63);
+    width: 100;
+}
+.nosotros {
+    background-color: forestgreen ;
+}
+.listasvideos {
+    background-color: aliceblue;
+    padding: 3px;
+    border: 1px solid red;
+}
